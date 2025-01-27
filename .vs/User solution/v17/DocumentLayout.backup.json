@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seaif\\source\\repos\\User solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\dataseeding\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\dataseeding\\roles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\dataseeding\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\dataseeding\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\dataseeding\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\dataseeding\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\errormodels\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\errormodels\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\presentation\\extensions\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\presentation\\extensions\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\presentation\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\presentation\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\updateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\updateduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|c:\\users\\seaif\\source\\repos\\user solution\\user\\application\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CC10AC-539E-400F-B75B-AE96B7EA2833}|User\\User.csproj|solutionrelative:user\\application\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "User\\Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:16:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "User\\Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:35:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "users.json",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\users.json",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\DataSeeding\\users.json",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\users.json",
+              "RelativeToolTip": "User\\Infrastructure\\DataSeeding\\users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T11:58:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Program.cs",
+              "RelativeDocumentMoniker": "User\\Program.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Program.cs",
+              "RelativeToolTip": "User\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:25:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "User\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "User\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswJQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:34:47.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "roles.json",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\roles.json",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\DataSeeding\\roles.json",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\roles.json",
+              "RelativeToolTip": "User\\Infrastructure\\DataSeeding\\roles.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T11:57:06.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "User\\Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "User\\Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:32:32.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "User\\Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "User\\Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:48:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\RegisterDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:42:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "User\\Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:39:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "User\\Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:23:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\DataSeeding\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\DataSeeding\\DataSeeder.cs",
+              "RelativeToolTip": "User\\Infrastructure\\DataSeeding\\DataSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:14:39.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "User\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:10:40.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "User\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:08:45.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "User\\Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "User\\Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:59:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "User\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "User\\Infrastructure\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:38:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\RoleDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\RoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:58:57.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\LoginDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T00:59:23.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\ErrorModels\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "User\\Core\\ErrorModels\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\ErrorModels\\ErrorResponse.cs",
+              "RelativeToolTip": "User\\Core\\ErrorModels\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:27:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "User\\Core\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:26:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "User\\Core\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:58:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Entities\\Role.cs",
+              "RelativeToolTip": "User\\Core\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:57:48.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\UserDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\UserDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:29:00.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User\\Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User\\Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:17:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "User\\Presentation\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "User\\Presentation\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:21:14.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "User\\Presentation\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "User\\Presentation\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:24:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "User\\Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "User\\Application\\Services\\RoleService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:07:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Extensions\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "User\\Presentation\\Extensions\\ApplicationBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Presentation\\Extensions\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "User\\Presentation\\Extensions\\ApplicationBuilderExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T01:24:56.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\CreateUserDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\CreateUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:30:05.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdatedUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\UpdatedUserDTO.cs",
+              "RelativeDocumentMoniker": "User\\Application\\DTOS\\UpdatedUserDTO.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\DTOS\\UpdatedUserDTO.cs",
+              "RelativeToolTip": "User\\Application\\DTOS\\UpdatedUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:30:53.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "User\\Core\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Core\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "User\\Core\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:25:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "User\\Application\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\seaif\\source\\repos\\User solution\\User\\Application\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "User\\Application\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:08:30.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
